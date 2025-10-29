@@ -1,5 +1,5 @@
 # [NLPPCTR] MODs PROJECT
-![ScreenShot](https://drive.google.com/file/d/1ofktHL0BYBpdisuX-vm4aEy7K7ChmSxq/view?usp=sharing)
+![ScreenShot](https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png)
 
 
 *Upscale/Reskin/Mods Project for the
