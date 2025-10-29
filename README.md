@@ -1,12 +1,9 @@
 # [NLPPCTR] MODs PROJECT
-![ScreenShot](https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png)
-
 
 *Upscale/Reskin/Mods Project for the
-
 [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://www.youtube.com/watch?v=Sz6p45GsLJQ) 3DS Game,
-
 compatible with [CITRA](https://citra-emulator.com/).* 
+![ScreenShot](https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png)
 
 Download the [latest **NLPPCTR** release here](https://github.com/LovePlusProject/NLPPATCH/releases).
 
