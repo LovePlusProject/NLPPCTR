@@ -3,7 +3,7 @@
 **Upscale/Reskin/MODs Project for the<br />
 [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://www.youtube.com/watch?v=Sz6p45GsLJQ) 3DS Game,<br />
 compatible ONLY with the [CITRA EMULATOR](https://citra-emulator.com/).**<br />
-![ScreenShot](https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png)
+![ScreenShot](https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png = 250x250)
 **+++++++++++++++++++++++**<br />
 For instructions on how to **dump/load** CITRA **MODs** files [VISIT HERE](___).<br />
 [DOWNLOAD](___) the RAW Texture files of the game, and instructions on how to edit them.<br />
