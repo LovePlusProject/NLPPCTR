@@ -1,5 +1,5 @@
 # [NLPPCTR] MODs PROJECT
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1ofktHL0BYBpdisuX-vm4aEy7K7ChmSxq/view?usp=sharing)]
+![ScreenShot](https://drive.google.com/file/d/1ofktHL0BYBpdisuX-vm4aEy7K7ChmSxq/view?usp=sharing)
 
 
 *Upscale/Reskin/Mods Project for the
