@@ -23,7 +23,7 @@ and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
 
 Also tick the following:
-[Use Custom Textures]: Game will read any edited texture
+[Use Custom Textures]: Game will load any edited texture
 file you paste into the 'load' folder.
 [Dump Textures]: Game will dump any texture you encounter
 while playing the game in a 'dump' folder.
