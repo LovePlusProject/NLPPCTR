@@ -18,7 +18,7 @@ If you wish to inject the CITRA version of the [English Translation Project],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
 with the translated folder files from the [NLPPCTR]'s link: 
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
-(NOT FULLY TRANSLATED, CURRENTLY IN PROCESS)
+(NOT FULLY TRANSLATED YET, CURRENTLY IN PROCESS)
 
 After running the game for the first time click
 'Emulation>Configure Current Game...>Enhancements>'
