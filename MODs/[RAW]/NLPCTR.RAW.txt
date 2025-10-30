@@ -18,7 +18,7 @@ To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
 Visit here to pre-download ALL the RAW textures of the game:
-(WILLADDLINKSOON)
+https://github.com/LovePlusProject/NLPPCTR/tree/ea9f792d2d0b093ab3633b5f72023390c5781b54/MODs/%5BRAW%5D
 
 Keep the RAW/Original files in the 'dump' folder,
 Make a copy of any texture file you wish to change,
