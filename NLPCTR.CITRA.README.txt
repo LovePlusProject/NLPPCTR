@@ -28,11 +28,20 @@ file you paste into the 'load' folder.
 [Dump Textures]: Game will dump any texture you encounter
 while playing the game in a 'dump' folder.
 
+Read more info on the preferences concerning the textures here:
+https://citra-emulator.com/custom-textures/
+
 To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
 Visit here to pre-download ALL the RAW textures of the game:
 (WILLADDLINKSOON)
+
+Keep the RAW/Original files in the 'dump' folder,
+Make a copy of any texture file you wish to change,
+and move it in the 'load' folder before you work on them.
+
+To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE UPSCALE/RESKIN/MODs YOU DESIGNED, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
