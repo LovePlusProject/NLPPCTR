@@ -15,6 +15,6 @@ OR VISIT THIS [GBATEMP THREAD HERE](https://gbatemp.net/threads/project-newlovep
 **THE MODs FILES FROM THIS PROJECT ARE NOT COMPATIBLE WITH<BR />
 THE PATCH FILES REQUIRED TO RUN ON A 3DS/HOMEBREW DEVICE,<BR />
 AND ARE ONLY MEANT TO OPERATE ON THE [CITRA ENVIRONMENT](HTTPS://CITRA-EMULATOR.COM/).**<BR />
-<img src="https://github.com/LovePlusProject/NLPPCTR/blob/6bf60353feda6040ccbe74d2f0d53bf9355c2732/%5BNLPPCTR%5DTextures.png" width="400"><br />
+<img src="https://github.com/LovePlusProject/NLPPCTR/blob/6bf60353feda6040ccbe74d2f0d53bf9355c2732/%5BNLPPCTR%5DTextures.png" width="500"><br />
 ➕➕➕➕➕➕➕➕➕➕<BR />
 **➕TO CONTRIBUTE TO THIS PROJECT CONTACT: [DISCORD:LOVEPLUSPROJECT]➕**<BR />
