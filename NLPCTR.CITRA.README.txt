@@ -43,7 +43,7 @@ and move it in the 'load' folder before you work on them.
 
 To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-TO CONTRIBUTE UPSCALE/RESKIN/MODs YOU DESIGNED, OR FOR A DISCUSSION CONCERNING
+TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
 https://discord.gg/MN8DSXJC
 OR VISIT THIS GBATEMP THREAD HERE:
