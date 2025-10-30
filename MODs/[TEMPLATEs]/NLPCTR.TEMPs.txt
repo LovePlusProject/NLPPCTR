@@ -1,0 +1,42 @@
+﻿[NLPPCTR] TEMPLATEs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+We have created a few TEMPs/TEMPLATEs
+to make MODDING/MODs more accessible,
+visit here often for new TEMPs PACK releases:
+https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BTEMPLATEs%5D
+
+Right click the game in the CITRA menu and
+choose Emulation>Configure Current Game...>Enhancements>
+then tick the following features:
+[Use Custom Textures]: Game will load any edited texture
+file you paste into the 'load' folder.
+[Dump Textures]: Game will dump any texture you encounter
+while playing the game in a 'dump' folder.
+
+Read more info on the preferences concerning the textures here:
+https://citra-emulator.com/custom-textures/
+
+To locate your 'dump/load' texture folders, navigate to:
+_:\Users\____\AppData\Roaming\Citra
+
+Keep the RAW/Original files in the 'dump' folder,
+Make a copy of any texture file you wish to change,
+and move it in the 'load' folder before you work on them.
+
+All edited textures must be placed in the 'load' folder
+and maintain their original name in order to work properly. 
+
+To view the changes in real time, reboot the game after each change.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
+THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
+https://discord.gg/MN8DSXJC
+OR VISIT THIS GBATEMP THREAD HERE:
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THE MODs FILES FROM THE [NLPPCTR] PROJECT ARE NOT COMPATIBLE
+WITH THE PATCH FILES REQUIRED TO RUN ON A 3DS/HOMEBREW DEVICE,
+AND ARE ONLY MEANT TO OPERATE ON THE CITRA ENVIRONMENT.
+
+TO CONTRIBUTE TO THIS PROJECT CONTACT: [DISCORD:LOVEPLUSPROJECT]
+https://github.com/LovePlusProject/NLPPCTR/
