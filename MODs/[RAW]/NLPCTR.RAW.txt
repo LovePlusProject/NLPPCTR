@@ -1,4 +1,7 @@
 ﻿[NLPPCTR] RAW MATERIAL
+2025-10-30_DISCLAIMER: WE ARE CURRENTLY WORKING ON FINDING A WAY TO DUMP ALL CITRA TEXTURES AT ONCE,
+SO THAT WE CAN OFFER THE RAW MATTERIAL FOR THE CUSTOMIZING MODs PROJECT TO FINALLY BEGIN,
+VISIT HERE AGAIN SOON.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 After running the game for the first time click
 'Emulation>Configure Current Game...>Enhancements>'
