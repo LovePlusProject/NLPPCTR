@@ -14,6 +14,7 @@ is meant for changing text in the scripts and/or code files in the game.
 If you wish to inject the CITRA version of the [English Translation Project],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
 with the translated folder files from the project's link: 
+https://github.com/LovePlusProject/NLPPCTR/blob/42ff577e80ed114fc5c8608ce9849c657f4fcc6c/MODs/%5BNLPPCTR%5D_ENGLISH_TRANSLATION_PATCH.zip
 
 After running the game for the first time click
 'Emulation>Configure Current Game...>Enhancements>'
@@ -30,7 +31,7 @@ To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
 Visit here to pre-download ALL the RAW textures of the game:
-
+(WILLADDLINKSOON)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE UPSCALE/RESKIN/MODs YOU DESIGNED, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
