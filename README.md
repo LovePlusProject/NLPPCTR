@@ -2,11 +2,11 @@
 **➕UPSCALE/RESKIN/MODs PROJECT FOR THE<BR />
 [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://youtu.be/Sz6p45GsLJQ?si=9Nwr9UtPMmH61-O4) 3DS GAME,<BR />
 COMPATIBLE ONLY WITH THE [CITRA EMULATOR](HTTPS://CITRA-EMULATOR.COM/).➕**<BR />
-<img src="https://github.com/LovePlusProject/NLPPCTR/blob/f834a88f9afe2e5f809d6e88f22b5bc6de5e315b/%5BNLPPCTR%5D.png" width="600"><br />
+<img src="https://github.com/LovePlusProject/NLPPCTR/blob/main/%5BNLPPCTR%5D.png" width="600"><br />
 ➕FOR INSTRUCTIONS ON HOW TO **DUMP/LOAD** CITRA **MODs** FILES [VISIT HERE](https://github.com/LovePlusProject/NLPPCTR/blob/6ba21f4aec44b81f91739d207b56f289c7fd48ff/NLPCTR.CITRA.README.txt).➕<BR />
 ➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D) ALL THE **RAW** CITRA TEXTURE FILES OF THE GAME➕<BR />
-➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/152b28db2752f7404afaa2d594bf54b2e36b8619/MODs/%5BENGLISH.PATCH%5D) THE **CITRA VERSION** OF THE [[**ENGLISH TRANSLATION PROJECT**]](https://github.com/LOVEPLUSPROJECT/NLPPATCH/).➕<BR />
-➕[A LIST OF OUR PROJECT's **MODs** FILES, AND VARIOUS CONTRIBUTIONs FROM **ARTISTs**](https://github.com/LovePlusProject/NLPPCTR/tree/152b28db2752f7404afaa2d594bf54b2e36b8619/MODs) .➕<BR /> 
+➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D) THE **CITRA VERSION** OF THE [[**ENGLISH TRANSLATION PROJECT**]](https://github.com/LOVEPLUSPROJECT/NLPPATCH/).➕<BR />
+➕[A LIST OF OUR PROJECT's **MODs** FILES, AND VARIOUS CONTRIBUTIONs FROM **ARTISTs**](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs) .➕<BR /> 
 ➕TO CONTRIBUTE YOUR **UPSCALE/RESKIN/MODs**, OR FOR A DISCUSSION CONCERNING <BR />
 THE **MODs** & THE **DUMP/LOAD** PROCESS, SUBSCRIBE TO OUR [DISCORD CHANNEL HERE](HTTPS://DISCORD.GG/MN8DSXJC),<BR />
 OR VISIT THIS [GBATEMP THREAD HERE](https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/).➕<BR />
@@ -14,5 +14,5 @@ OR VISIT THIS [GBATEMP THREAD HERE](https://gbatemp.net/threads/project-newlovep
 **THE MODs FILES FROM THIS PROJECT ARE NOT COMPATIBLE WITH<BR />
 THE PATCH FILES REQUIRED TO RUN ON A 3DS/HOMEBREW DEVICE,<BR />
 AND ARE ONLY MEANT TO OPERATE ON THE [CITRA ENVIRONMENT](HTTPS://CITRA-EMULATOR.COM/).**<BR />
-<img src="https://github.com/LovePlusProject/NLPPCTR/blob/6bf60353feda6040ccbe74d2f0d53bf9355c2732/%5BNLPPCTR%5DTextures.png" width="500"><br />
+<img src="https://github.com/LovePlusProject/NLPPCTR/blob/main/%5BNLPPCTR%5DTextures.png" width="500"><br />
 **➕TO CONTRIBUTE TO THIS PROJECT CONTACT: [DISCORD:LOVEPLUSPROJECT]➕**<BR />
