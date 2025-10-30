@@ -2,7 +2,7 @@
 **➕UPSCALE/RESKIN/MODs PROJECT FOR THE<BR />
 [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://youtu.be/Sz6p45GsLJQ?si=9Nwr9UtPMmH61-O4) 3DS GAME,<BR />
 COMPATIBLE ONLY WITH THE [CITRA EMULATOR](HTTPS://CITRA-EMULATOR.COM/).➕**<BR />
-<img src="https://github.com/LovePlusProject/NLPPCTR/blob/b43733e967abdc54355c80562ffd97773f4f64f1/%5BNLPPCTR%5D.png" width="600"><br />
+<img src="https://github.com/LovePlusProject/NLPPCTR/blob/f834a88f9afe2e5f809d6e88f22b5bc6de5e315b/%5BNLPPCTR%5D.png" width="600"><br />
 ➕FOR INSTRUCTIONS ON HOW TO **DUMP/LOAD** CITRA **MODs** FILES [VISIT HERE](https://github.com/LovePlusProject/NLPPCTR/blob/6ba21f4aec44b81f91739d207b56f289c7fd48ff/NLPCTR.CITRA.README.txt).➕<BR />
 ➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/ea9f792d2d0b093ab3633b5f72023390c5781b54/MODs/%5BRAW%5D) ALL THE **RAW** CITRA TEXTURE FILES OF THE GAME➕<BR />
 ➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/152b28db2752f7404afaa2d594bf54b2e36b8619/MODs/%5BENGLISH.PATCH%5D) THE **CITRA VERSION** OF THE [[**ENGLISH TRANSLATION PROJECT**]](https://github.com/LOVEPLUSPROJECT/NLPPATCH/).➕<BR />
