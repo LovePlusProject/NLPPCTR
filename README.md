@@ -17,5 +17,8 @@ OR VISIT THIS [GBATEMP THREAD HERE](HTTPS://GBATEMP.NET/THREADS/PROJECT-NEWLOVEP
 AND ARE ONLY MEANT TO OPERATE ON THE [CITRA ENVIRONMENT](HTTPS://CITRA-EMULATOR.COM/).**<BR />
 ➕➕➕➕➕➕➕➕➕➕<BR />
 **➕TO CONTRIBUTE TO THIS PROJECT CONTACT: [DISCORD:LOVEPLUSPROJECT]➕**<BR />
+<video src="[/media/movie.mp4](https://youtu.be/Sz6p45GsLJQ?si=9Nwr9UtPMmH61-O4)" controls
+       width="320" height="240">
+</video>
 <video src="https://youtu.be/Sz6p45GsLJQ?si=9Nwr9UtPMmH61-O4" width="600"><br />
 [![Watch the video](https://i.ytimg.com/vi/Sz6p45GsLJQ/maxresdefault.jpg)](https://youtu.be/Sz6p45GsLJQ?si=9Nwr9UtPMmH61-O4)
