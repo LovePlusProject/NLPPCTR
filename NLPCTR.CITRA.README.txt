@@ -4,7 +4,7 @@ Download the latest build of CITRA here:
 https://citra-emulator.com/download
 
 Run Citra, 'double-click to add a new folder to the game list'
-and direct it to where you have stored your 3DS/CIA file of the NLP+ game.
+and direct it to where you have stored your 3DS file of the NLP+ game.
 
 Right-click the game in the list, and click 'Open Mods Location',
 it should open a folder named '00040000000F4E00',
