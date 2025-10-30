@@ -1,7 +1,7 @@
 ﻿[NLPPCTR] TEMPLATEs
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 We have created a few TEMPs/TEMPLATEs
-to make MODDING/MODs more accessible,
+to make MODs/MODDING more accessible,
 visit here often for new TEMPs PACK releases:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BTEMPLATEs%5D
 
