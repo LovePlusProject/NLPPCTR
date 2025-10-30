@@ -1,4 +1,4 @@
-﻿[NLPPCTR] MODs PROJECT
+﻿[NLPPCTR] ENGLISH TRANSLATION PATCH
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Download the latest build of CITRA here:
 https://citra-emulator.com/download
@@ -13,7 +13,7 @@ is meant for changing text in the scripts and/or code files in the game.
 
 If you wish to inject the CITRA version of the [English Translation Project],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
-with the translated folder files from the project's link: 
+with the translated folder files from the [NLPPCTR]'s link: 
 https://github.com/LovePlusProject/NLPPCTR/blob/7f3695c7f418504e779ebc939499b628cafb55c4/MODs/%5BNLPPCTR%5D_ENGLISH_PATCH.zip
 (NOT FULLY TRANSLATED, CURRENTLY IN PROCESS)
 
@@ -21,18 +21,14 @@ After running the game for the first time click
 'Emulation>Configure Current Game...>Enhancements>'
 and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
-
-Also tick the following:
-[Use Custom Textures]: Game will read any edited texture
-file you paste into the 'load' folder.
-[Dump Textures]: Game will dump any texture you encounter
-while playing the game in a 'dump' folder.
-
-To locate your 'dump/load' texture folders, navigate to:
-_:\Users\____\AppData\Roaming\Citra
-
-Visit here to pre-download ALL the RAW textures of the game:
-(WILLADDLINKSOON)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The English patch will be automatically applied every time you run the game,
+however note that currently most of the instructions
+and the button graphics have not yet been fully edited and translated,
+you'd have to navigate the Japanese menus in order to create your profile,
+and start the game, phone apps such as 'googletranslate' that have a
+live camera translate feature should come in handy till you set everything up,
+and before you become accustomed to the game's menu.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE UPSCALE/RESKIN/MODs YOU DESIGNED, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
