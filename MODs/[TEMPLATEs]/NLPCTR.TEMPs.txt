@@ -15,6 +15,7 @@ while playing the game in a 'dump' folder.
 
 Read more info on the preferences concerning the textures here:
 https://citra-emulator.com/custom-textures/
+https://citra-emulator.pro/citra-texture-dumping-and-custom-textures-guide/
 
 To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
