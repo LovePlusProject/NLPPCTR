@@ -7,7 +7,7 @@ COMPATIBLE WITH THE [CITRA EMULATOR ENVIRONMENT](HTTPS://CITRA-EMULATOR.COM/).�
 ➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D) ALL THE **RAW** CITRA FORMAT **TEXTURE** FILEs OF THE GAME➕<BR />
 ➕[DOWNLOAD](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D) THE **CITRA VERSION** OF THE [[**ENGLISH TRANSLATION PROJECT(Tr28%)**]](https://github.com/LOVEPLUSPROJECT/NLPPATCH/).➕<BR />
 ➕FOR INSTRUCTIONS ON HOW TO **TRANSFER** YOUR **SAVE DATA** TO **CITRA** VIA THE **3DS** [VISIT HERE](https://citra-emulator.com/wiki/dumping-save-data-from-3ds/).➕<BR />
-➕[A LIST OF OUR PROJECT's **MODs** FILEs, TEMPLATEs, AND CONTRIBUTIONs FROM VARIOUs **ARTISTs**](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs) .➕<BR /> 
+➕[A LIST OF OUR PROJECT's **MODs** FILEs, **TEMPLATEs**, AND **CONTRIBUTIONs** FROM VARIOUs **ARTISTs**](https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs) .➕<BR /> 
 ➕TO CONTRIBUTE YOUR **UPSCALE/RESKIN/MODs**, OR FOR A DISCUSSION CONCERNING <BR />
 THE **MODs** & THE **DUMP/LOAD** PROCESS, SUBSCRIBE TO OUR [DISCORD CHANNEL HERE](HTTPS://DISCORD.GG/MN8DSXJC),<BR />
 OR VISIT THIS [GBATEMP THREAD HERE](https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/).➕<BR />
