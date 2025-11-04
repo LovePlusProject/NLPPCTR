@@ -1,0 +1,10 @@
+{
+    "author": "citra",
+    "version": "1.0.0",
+    "description": "A graphics pack",
+    "options": {
+        "skip_mipmap": false,
+        "flip_png_files": true,
+        "use_new_hash": true
+    }
+}
