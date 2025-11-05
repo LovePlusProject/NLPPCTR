@@ -35,6 +35,12 @@ https://citra-emulator.pro/citra-texture-dumping-and-custom-textures-guide/
 To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
+JSON File:
+Custom textures use a JSON configuration file (pack.json) for metadata,
+including pack name, author, hash format, and options for mipmap generation
+or texture flipping. Download and lace this file in both 'dump' and 'load' folders
+in order for all of our Project's MODs to work properly:
+
 Visit here to pre-download ALL the RAW textures of the game:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
 
