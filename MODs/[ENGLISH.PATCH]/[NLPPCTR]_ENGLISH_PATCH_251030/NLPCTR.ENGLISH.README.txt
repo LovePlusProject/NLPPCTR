@@ -18,24 +18,37 @@ If you wish to inject the CITRA version of the [English Translation Project],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
 with the translated folder files from the [NLPPCTR]'s link: 
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
-(NOT FULLY TRANSLATED YET, CURRENTLY IN PROCESS)
+(NOT FULLY TRANSLATED YET)
+Also move the project's translated graphics to your 'load' texture folder:
+_:\Users\____\AppData\Roaming\Citra\load\textures
 
-After running the game for the first time click
-'Emulation>Configure Current Game...>Enhancements>'
+JSON File:
+Custom textures use a JSON configuration file (pack.json) for metadata,
+including pack name, author, hash format, and options for mipmap generation
+or texture flipping. Download and place a copy of this file in both 'dump' and 'load' folders,
+in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
+https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
+
+Before running the game for the first time, right-click the game
+in the game list again, and click 'Properties>Enhancements>'
 and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
+Also tick the following:
+[Use Custom Textures]: Game will load any edited texture
+file you paste into the 'load' folder.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The English patch will be automatically applied every time you run the game,
-however note that currently most of the instructions
-and the button graphics have not yet been fully edited and translated,
+however note that currently most of the instructions and not all
+the button graphics have not yet been fully edited and translated,
 you'd have to navigate the Japanese menus in order to create your profile,
 and start the game, phone apps such as 'googletranslate' that have a
 live camera translate feature should come in handy till you set everything up,
 and before you become accustomed to the game's menu.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
-THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNEL HERE:
-https://discord.gg/MN8DSXJC
+THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNELs HERE:
+https://discord.gg/XHJh2n6seD
+https://discord.gg/QaeeHyZnJD
 OR VISIT THIS GBATEMP THREAD HERE:
 https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++

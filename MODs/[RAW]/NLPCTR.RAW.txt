@@ -1,11 +1,22 @@
 ﻿[NLPPCTR] RAW MATERIAL
 2025-10-30_DISCLAIMER: WE ARE CURRENTLY WORKING ON FINDING A WAY TO DUMP ALL CITRA TEXTURES AT ONCE,
-SO THAT WE CAN OFFER THE RAW MATTERIAL FOR THE CUSTOMIZING MODs PROJECT TO FINALLY BEGIN, IN THE MEANTIME
+SO THAT WE CAN OFFER THE RAW MATERIAL FOR THE CUSTOMIZING MODs PROJECT TO FINALLY BEGIN, IN THE MEANTIME
 PLAYING THE GAME WILL DUMP ALL THE TEXTURES YOU COME ACROSS, AND EDITING/LOADING THEM IS A FULLY FUNCTIONAL PROCESS.
 VISIT HERE AGAIN SOON FOR ANY FURTHER DEVELOPMENTS.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-After running the game for the first time click
-'Emulation>Configure Current Game...>Enhancements>'
+Download the latest build of CITRA here:
+https://citra-emulator.com/download
+
+Run Citra, 'double-click to add a new folder to the game list'
+and direct it to where you have stored your 3DS file of the NLP+ game.
+
+Right-click the game in the list, and click 'Open Mods Location',
+it should open a folder named '00040000000F4E00',
+enter this folder and create a new folder called 'romfs', this folder
+is meant for changing text in the scripts and/or code files in the game.
+
+Before running the game for the first time, right-click the game
+in the game list again, and click 'Properties>Enhancements>'
 and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
 
@@ -29,12 +40,16 @@ or texture flipping. Download and place a copy of this file in both 'dump' and '
 in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
-Visit here to pre-download ALL the RAW textures of the game:
+Export all the pre-downloaded RAW textures of the game in the 'dump' folder:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
 
-Keep the RAW/Original files in the 'dump' folder,
-Make a copy of any texture file you wish to change,
-and move it in the 'load' folder before you work on them.
+To edit textures, keep the RAW/Original files in the 'dump' folder,
+Move a copy of any texture file you wish to edit in the 'load' folder
+before you work on them.
+
+All edited textures must be placed in the 'load' folder, a copy of
+our pack.json must be copied in both dump/load folders, and files must
+maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
