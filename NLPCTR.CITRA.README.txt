@@ -22,9 +22,10 @@ After running the game for the first time click
 and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
 
-Also tick the following:
+Tick the following:
 [Use Custom Textures]: Game will load any edited texture
 file you paste into the 'load' folder.
+Alternatively you can also tick if needed:
 [Dump Textures]: Game will dump any texture you encounter
 while playing the game in a 'dump' folder.
 
@@ -38,8 +39,8 @@ _:\Users\____\AppData\Roaming\Citra
 JSON File:
 Custom textures use a JSON configuration file (pack.json) for metadata,
 including pack name, author, hash format, and options for mipmap generation
-or texture flipping. Download and lace this file in both 'dump' and 'load' folders in order
-for all of our Project's MODs to work properly, if your system has create such a file, replace it:
+or texture flipping. Download and place a copy of this file in both 'dump' and 'load' folders,
+in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
 Visit here to pre-download ALL the RAW textures of the game:
