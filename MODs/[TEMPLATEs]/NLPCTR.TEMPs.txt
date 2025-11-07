@@ -28,7 +28,7 @@ Export any edited Texture MODs files you wish to use in the 'load' folder.
 JSON File:
 Custom textures use a JSON configuration file (pack.json) for metadata,
 including pack name, author, hash format, and options for mipmap generation
-or texture flipping. Download and place a copy of this file in both 'dump' and 'load' folders,
+or texture flipping. Download and place a copy of our file in both 'dump' and 'load' folders,
 in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
