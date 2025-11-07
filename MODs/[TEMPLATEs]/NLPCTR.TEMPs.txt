@@ -5,9 +5,12 @@ to make MODs/MODDING more accessible,
 visit here often for new TEMPs PACK releases:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BTEMPLATEs%5D
 
-Right click the game in the CITRA menu and
-choose Emulation>Configure Current Game...>Enhancements>
-then tick the following features:
+Before running the game for the first time, right-click the game
+in the game list, and click 'Properties>Enhancements>'
+and tick the 'Rotate Screens Upright' box in order for
+the game to always display with the correct orientation.
+
+Also tick the following:
 [Use Custom Textures]: Game will load any edited texture
 file you paste into the 'load' folder.
 [Dump Textures]: Game will dump any texture you encounter
@@ -20,12 +23,23 @@ https://citra-emulator.pro/citra-texture-dumping-and-custom-textures-guide/
 To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
-Keep the RAW/Original files in the 'dump' folder,
-Make a copy of any texture file you wish to change,
-and move it in the 'load' folder before you work on them.
+JSON File:
+Custom textures use a JSON configuration file (pack.json) for metadata,
+including pack name, author, hash format, and options for mipmap generation
+or texture flipping. Download and place a copy of this file in both 'dump' and 'load' folders,
+in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
+https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
-All edited textures must be placed in the 'load' folder
-and maintain their original name in order to work properly. 
+Visit here to pre-download ALL the RAW textures of the game:
+https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
+
+To edit textures, keep the RAW/Original files in the 'dump' folder,
+Move a copy of any texture file you wish to edit in the 'load' folder
+before you work on them.
+
+All edited textures must be placed in the 'load' folder, a copy of
+our pack.json must be copied in both dump/load folders, and files must
+maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++

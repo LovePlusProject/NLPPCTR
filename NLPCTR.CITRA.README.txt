@@ -15,14 +15,16 @@ If you wish to inject the CITRA version of the [English Translation Project],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
 with the translated folder files from the project's link: 
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
-(NOT FULLY TRANSLATED YET, CURRENTLY IN PROCESS)
+(NOT FULLY TRANSLATED YET)
+Also move the project's translated graphics to your 'load' texture folder:
+_:\Users\____\AppData\Roaming\Citra\load\textures
 
-After running the game for the first time click
-'Emulation>Configure Current Game...>Enhancements>'
+Before running the game for the first time, right-click the game
+in the game list again, and click 'Properties>Enhancements>'
 and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
 
-Tick the following:
+Also tick the following:
 [Use Custom Textures]: Game will load any edited texture
 file you paste into the 'load' folder.
 Alternatively you can also tick if needed:
@@ -43,12 +45,16 @@ or texture flipping. Download and place a copy of this file in both 'dump' and '
 in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
-Visit here to pre-download ALL the RAW textures of the game:
+If needed, visit here to pre-download ALL the RAW textures of the game:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
 
-Keep the RAW/Original files in the 'dump' folder,
-Make a copy of any texture file you wish to change,
-and move it in the 'load' folder before you work on them.
+To edit textures, keep the RAW/Original files in the 'dump' folder,
+Move a copy of any texture file you wish to edit in the 'load' folder
+before you work on them.
+
+All edited textures must be placed in the 'load' folder, a copy of
+our pack.json must be copied in both dump/load folders, and files must
+maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
