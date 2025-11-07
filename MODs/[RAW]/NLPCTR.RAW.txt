@@ -54,7 +54,7 @@ maintain their original name in order for this process to work properly.
 To view the changes in real time, reboot the game after each change.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
-THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO OUR DISCORD CHANNELs HERE:
+THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO THESE DISCORD CHANNELs HERE:
 https://discord.gg/XHJh2n6seD
 https://discord.gg/QaeeHyZnJD
 OR VISIT THIS GBATEMP THREAD HERE:
