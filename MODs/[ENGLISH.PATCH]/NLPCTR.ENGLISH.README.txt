@@ -21,7 +21,7 @@ https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
 (NOT FULLY TRANSLATED YET)
 
 Also move the project's translated graphics to your 'load' texture folder:
-_:\Users\____\AppData\Roaming\Citra\load\textures\
+C:\Users\____\AppData\Roaming\Citra\load\textures\
 
 Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
 these files will need to be repacked/Injected into the 'img.bin' file in order to work in the game.
