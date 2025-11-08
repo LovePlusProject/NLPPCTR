@@ -49,6 +49,9 @@ https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd73
 If needed, visit here to pre-download ALL the RAW textures of the game here:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
 
+Place them in the following directory:
+C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00\
+
 To edit textures, keep the RAW/Original files in the 'dump' textures folder,
 move a copy of any texture file you wish to edit in the 'load' textures folder
 before you work on them.
