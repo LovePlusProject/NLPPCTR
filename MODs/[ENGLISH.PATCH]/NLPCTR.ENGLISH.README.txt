@@ -11,16 +11,16 @@ it should open a folder named '00040000000F4E00', enter this folder and create
 a new folder called 'romfs', this folder is meant for changing text in the scripts and/or
 code files, and where you'll be placing all your edited textures to succesfully load in the game.
 
-You'll locate the '00040000000F4E00' directory in:
-C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs
+You'll locate the '00040000000F4E00' 'romfs' directory in:
+C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\
 
 To inject the CITRA version of the [English Translation Project_tR28%],
-Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
+make a copy of the 'Script' and 'SystemData' folders in 'romfs',
 with the translated folder files from the [NLPPCTR]'s link: 
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
 (NOT FULLY TRANSLATED YET)
 
-Also move the project's translated graphics to your 'load' texture folder:
+Also move the project's translated graphics to your 'load' textures folder:
 C:\Users\____\AppData\Roaming\Citra\load\textures\
 
 Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
@@ -50,7 +50,7 @@ and tick the 'Rotate Screens Upright' box in order for
 the game to always display with the correct orientation.
 Also tick the following:
 [Use Custom Textures]: Game will load any edited texture
-file you paste into the 'load' folder.
+file you paste into the 'load' folder, like the translated menu images.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The English patch will be automatically applied every time you run the game,
 however note that currently most of the instructions and button graphics
