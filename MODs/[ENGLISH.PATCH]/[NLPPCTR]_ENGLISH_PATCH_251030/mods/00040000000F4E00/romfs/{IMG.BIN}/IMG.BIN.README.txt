@@ -10,4 +10,4 @@ then proceed to use the 'nlpp-tools', and follow the instructions to perform the
 https://github.com/LovePlusProject/nlpp-tools
 
 After you're done with the repacking process, dont forget to make sure the repacked file is in:
-C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\
+C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\img.bin
