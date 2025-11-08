@@ -1,12 +1,13 @@
-Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
+Any pack files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
 these files will need to be repacked/Injected into the 'img.bin' file in order to work in the game.
 
 Right click on the game in the CITRA starting screen, and click 'Dump RomFS',
 the freshly dumped game files generated will be located at:
 C:\Users\____\AppData\Roaming\Citra\dump\romfs\00040000000F4E00\img.bin
 
-Make a copy of the 'img.bin' file in the 'load' folder before you edit that file,
-then proceed to use the 'nlpp-tools', and follow the instructions to perform the 'repack' action:
+Make a copy of the 'img.bin' file in the 'load' folder before you edit that file, in the following directory:
+C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\
+then proceed to use the 'nlpp-tools', and follow the instructions to perform the 'repack' action for the img.bin file:
 https://github.com/LovePlusProject/nlpp-tools
 
 After you're done with the repacking process, dont forget to make sure the repacked file is in:
