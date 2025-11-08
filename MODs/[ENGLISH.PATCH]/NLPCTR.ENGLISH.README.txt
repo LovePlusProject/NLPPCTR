@@ -7,8 +7,8 @@ Run Citra, 'double-click to add a new folder to the game list'
 and direct it to where you have stored your 3DS/CIA file of the NLP+ game.
 
 Right-click the game in the list, and click 'Open Mods Location',
-it should open a folder named '00040000000F4E00', enter this folder
-and create a new folder called 'romfs', this folder is meant for changing text in the scripts and/or
+it should open a folder named '00040000000F4E00', enter this folder and create
+a new folder called 'romfs', this folder is meant for changing text in the scripts and/or
 code files, and where you'll be placing all your edited textures to succesfully load in the game.
 
 You'll locate the '00040000000F4E00' directory in:
