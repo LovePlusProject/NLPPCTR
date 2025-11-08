@@ -23,7 +23,8 @@ https://citra-emulator.pro/citra-texture-dumping-and-custom-textures-guide/
 To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
-Export any edited Texture MODs files you wish to use in the 'load' folder.
+Export any edited Texture MODs files you wish to use in the 'load' textures folder:
+C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00
 
 JSON File:
 Custom textures use a JSON configuration file (pack.json) for metadata,
@@ -35,12 +36,12 @@ https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd73
 If needed, visit here to pre-download ALL the RAW textures of the game:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
 
-To edit textures, keep the RAW/Original files in the 'dump' folder,
-Move a copy of any texture file you wish to edit in the 'load' folder
+To edit textures, keep the RAW/Original files in the 'dump' textures folder,
+Move a copy of any texture file you wish to edit in the 'load' textures folder
 before you work on them.
 
-All edited textures must be placed in the 'load' folder, a copy of
-our pack.json must be copied in both dump/load folders, and files must
+All edited textures must be placed in the 'load' textures folder, a copy of
+our pack.json must be copied in both dump/load textures folders, and files must
 maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
