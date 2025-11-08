@@ -12,9 +12,9 @@ the game to always display with the correct orientation.
 
 Also tick the following:
 [Use Custom Textures]: Game will load any edited texture
-file you paste into the 'load' folder.
+file you paste into the 'load' textures folder.
 [Dump Textures]: Game will dump any texture you encounter
-while playing the game in a 'dump' folder.
+while playing the game in a 'dump' textures folder.
 
 Read more info on the preferences concerning the textures here:
 https://citra-emulator.com/custom-textures/
@@ -24,17 +24,20 @@ To locate your 'dump/load' texture folders, navigate to:
 _:\Users\____\AppData\Roaming\Citra
 
 Export any edited Texture MODs files you wish to use in the 'load' textures folder:
-C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00
+C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00\
 
 JSON File:
 Custom textures use a JSON configuration file (pack.json) for metadata,
 including pack name, author, hash format, and options for mipmap generation or texture flipping.
-Download and place a copy of this file in both the game's 'dump' and 'load' texture folders, in order for
-all of our Project's MODs to work properly, if your system has create such a file, replace it:
+Download and place a copy of this file in both the game's 'dump' and 'load' textures folders, in order
+for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
 If needed, visit here to pre-download ALL the RAW textures of the game:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BRAW%5D
+
+Place them in the following directory:
+C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00\
 
 To edit textures, keep the RAW/Original files in the 'dump' textures folder,
 Move a copy of any texture file you wish to edit in the 'load' textures folder
