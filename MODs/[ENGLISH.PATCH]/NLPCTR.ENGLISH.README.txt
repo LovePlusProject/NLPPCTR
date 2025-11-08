@@ -7,12 +7,12 @@ Run Citra, 'double-click to add a new folder to the game list'
 and direct it to where you have stored your 3DS/CIA file of the NLP+ game.
 
 Right-click the game in the list, and click 'Open Mods Location',
-it should open a folder named '00040000000F4E00',
-enter this folder and create a new folder called 'romfs', this folder
-is meant for changing text in the scripts and/or code files in the game.
+it should open a folder named '00040000000F4E00', enter this folder
+and create a new folder called 'romfs', this folder is meant for changing text in the scripts and/or
+code files, and where you'll be placing all your edited textures to succesfully load in the game.
 
 You'll locate the '00040000000F4E00' directory in:
-_:\Users\___\AppData\Roaming\Citra\load\mods
+C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs
 
 To inject the CITRA version of the [English Translation Project_tR28%],
 Move/Replace the 'Script' and 'SystemData' folders in 'romfs'
@@ -21,17 +21,17 @@ https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BENGLISH.PATCH%5D
 (NOT FULLY TRANSLATED YET)
 
 Also move the project's translated graphics to your 'load' texture folder:
-_:\Users\____\AppData\Roaming\Citra\load\textures
+_:\Users\____\AppData\Roaming\Citra\load\textures\
 
 Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
 these files will need to be repacked/Injected into the 'img.bin' file in order to work in the game.
 
 Right click on the game in the CITRA starting screen, and click 'Dump RomFS',
 the freshly dumped game files generated will be located at:
-C:\Users\____\AppData\Roaming\Citra\dump\romfs\00040000000F4E00\img.bin
+C:\Users\____\AppData\Roaming\Citra\dump\romfs\00040000000F4E00\
 
-Make a copy of the 'img.bin' file in the 'load' folder before you edit that file,
-then proceed to use the 'nlpp-tools', and follow the instructions to perform the 'repack' action:
+Make a copy of the 'img.bin' file in the 'load' folder before you edit that file, then
+proceed to use the 'nlpp-tools', and follow their instructions to perform the 'repack' action:
 https://github.com/LovePlusProject/nlpp-tools
 
 After you're done with the repacking process, dont forget to make sure the repacked file is in:
@@ -40,7 +40,7 @@ C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\img.bin
 JSON File:
 Custom textures use a JSON configuration file (pack.json) for metadata,
 including pack name, author, hash format, and options for mipmap generation
-or texture flipping. Download and place a copy of this file in both 'dump' and 'load' folders,
+or texture flipping. Download and place a copy of this file in both the game's 'dump' and 'load' folders,
 in order for all of our Project's MODs to work properly, if your system has create such a file, replace it:
 https://github.com/LovePlusProject/NLPPCTR/blob/949310f8eee2b09ab56d30b7d157cd733f417403/MODs/%5BNLPPCTR%5D_JSONFILE.zip
 
@@ -53,12 +53,11 @@ Also tick the following:
 file you paste into the 'load' folder.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The English patch will be automatically applied every time you run the game,
-however note that currently most of the instructions and not all
-the button graphics have not yet been fully edited and translated,
-you'd have to navigate the Japanese menus in order to create your profile,
-and start the game, phone apps such as 'googletranslate' that have a
-live camera translate feature should come in handy till you set everything up,
-and before you become accustomed to the game's menu.
+however note that currently most of the instructions and button graphics
+have not yet been fully edited and translated, you'd have to navigate the
+Japanese menus in order to create your profile, and start the game, phone apps
+such as 'googletranslate' that have a live camera translate feature should come
+in handy till you set everything up, and before you become accustomed to the game's menu.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO THESE DISCORD CHANNELs HERE:
