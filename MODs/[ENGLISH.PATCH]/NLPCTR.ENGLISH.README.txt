@@ -34,7 +34,7 @@ Make a copy of the 'img.bin' file in the 'load' folder
 before you edit that file, in the following directory:
 C:\Users\____\AppData\Roaming\Citra\load\mods\00040000000F4E00\romfs\
 then proceed to use the 'nlpp-tools', and follow the instructions to perform the
-'Repacking a package' action for the img.bin file without our Project's pack files:
+'Repacking a package' action for the 'img.bin' file with our Project's pack files:
 https://github.com/LovePlusProject/nlpp-tools
 
 After you're done with the repacking process, dont forget to make sure the repacked file is in:
