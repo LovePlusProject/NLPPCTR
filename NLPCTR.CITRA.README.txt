@@ -53,8 +53,8 @@ Place them in the following directory:
 C:\Users\____\AppData\Roaming\Citra\load\textures\00040000000F4E00\
 
 To edit textures, keep the RAW/Original files in the 'dump' textures folder,
-move a copy of any texture file you wish to edit in the 'load' textures folder
-before you work on them.
+move a copy of any texture file you wish to edit in the 'load' textures folder,
+before you work any further on them.
 
 All edited textures must be placed in the 'load' textures folder, a copy of
 our pack.json must be copied in both dump/load textures folders, and PNG files
