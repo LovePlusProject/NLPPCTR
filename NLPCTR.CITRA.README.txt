@@ -62,7 +62,7 @@ must maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
 
-Visit here to find some templates for the creation of new [NLPPCTR] MODs:
+Visit here to find some templates for the creation of your own [NLPPCTR] MODs:
 https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BTEMPLATEs%5D
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
