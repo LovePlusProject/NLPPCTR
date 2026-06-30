@@ -61,6 +61,9 @@ our pack.json must be copied in both dump/load textures folders, and PNG files
 must maintain their original name in order for this process to work properly.
 
 To view the changes in real time, reboot the game after each change.
+
+Visit here to find some templates for the creation of new [NLPPCTR] MODs:
+https://github.com/LovePlusProject/NLPPCTR/tree/main/MODs/%5BTEMPLATEs%5D
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 TO CONTRIBUTE YOUR UPSCALE/RESKIN/MODs, OR FOR A DISCUSSION CONCERNING
 THE MODs & THE DUMP/LOAD PROCESS, SUBSCRIBE TO THESE DISCORD CHANNELs HERE:
